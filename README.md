@@ -13,5 +13,5 @@ Topics Covered
 - Applying functions and lambda expressions
 - Working with text data
 
-Language: Python
+Language: Python 
 Library: Pandas
